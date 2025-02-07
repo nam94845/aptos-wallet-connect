@@ -1,3 +1,17 @@
+
+# Aptos Wallet Connect
+
+**A seamless integration for connecting Aptos blockchain wallets in Next.js applications**
+
+Aptos Wallet Connect provides a simple and efficient way to integrate Aptos blockchain wallets into your Next.js applications. It supports popular Aptos wallets, enabling users to securely authenticate and interact with decentralized applications (dApps) built on Aptos.
+
+## Features
+
+-   **Next.js & React Support** – Optimized for modern web applications.
+-   **Multi-Wallet Integration** – Connect with various Aptos wallets effortlessly.
+-   **Secure & Scalable** – Uses best practices for authentication and transaction signing.
+-   **Easy-to-Use API** – Simplified methods for connecting, signing transactions, and fetching account details.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
